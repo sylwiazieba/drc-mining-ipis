@@ -7,4 +7,5 @@ The Democratic Republic of the Congo (DRC) mines 2/3's of the global cobalt supp
 The focus of the exploratory and geospatial analysis is on highlighting the hazardous working conditions and environmental disruption to the surrounding protected natural areas.
 
 Check out the code and data analysis and visualizations in the uploaded jupyter notebook.
+https://github.com/sylwiazieba/drc-mining-ipis/blob/main/drc-mining-eda-geospatial-ipis.ipynb
 
